@@ -3,6 +3,7 @@ public class TextGit {
         System.out.println("又是美好的一天");
         System.out.println("Good night");
         System.out.println("see you tomorrow");
+        System.out.println("小鸟伏特加");
         System.out.println("无情哈拉少");
     }
 }
